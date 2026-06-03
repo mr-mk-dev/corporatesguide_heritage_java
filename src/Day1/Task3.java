@@ -2,7 +2,7 @@ package Day1;
 
 public class Task3 {
     public static void main(String[] args) {
-        byte firstVal = 10;
+        byte firstVal = 25;
 
         short shortValue = firstVal;
         int intValue = shortValue;
